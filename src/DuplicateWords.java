@@ -30,7 +30,7 @@ public class DuplicateWords {
 		{
 			w = w +" "+ i;
 		}		
-		System.out.println("saasfas"+w);
+		System.out.println("saafsasfsfasfas"+w);
 		return "asfs";
 		
 	}
